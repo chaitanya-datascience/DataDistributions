@@ -6,8 +6,8 @@ Created on Thu Dec 19 18:49:26 2019
 """
 
 from setuptools import setup
-setup(name='distributions', 
-      version='0.1',
-      description='Gaussian Distribution',
+setup(name='distributions',
+      version='0.2',
+      description='Gaussian & Bionamial Distribution',
       packages=['distributions'],
       zip_safe=False)
