@@ -19,7 +19,7 @@ In the following paragraphs, I am going to describe how you can get and use Dist
 
 ###  Getting it
 
-To download scrapeasy, fork this github repo. 
+To download distributions, fork this github repo. 
 
 ### Using it
 
