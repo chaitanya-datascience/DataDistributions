@@ -1,4 +1,4 @@
-# Distributions - A quick analysis of your data distribution in python!
+# DataDistributions - A quick analysis of your data distribution in python!
 Binomial and Normal Distribution
  
 
